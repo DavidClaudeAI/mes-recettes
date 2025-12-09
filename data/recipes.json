@@ -84,7 +84,7 @@
     "ingredients": [
       {
         "quantity": 22,
-        "unit": "galettes de riz de 22 cm de diamètre",
+        "unit": "",
         "name": "galettes de riz de 22 cm de diamètre"
       },
       {
@@ -109,7 +109,7 @@
       },
       {
         "quantity": 1,
-        "unit": "oignon blanc",
+        "unit": "",
         "name": "oignon blanc"
       },
       {
@@ -124,7 +124,7 @@
       },
       {
         "quantity": 1,
-        "unit": "blanc d'oeuf",
+        "unit": "",
         "name": "blanc d'oeuf"
       },
       {
@@ -134,12 +134,12 @@
       },
       {
         "quantity": 1,
-        "unit": "cc de sel",
+        "unit": "",
         "name": "cc de sel"
       },
       {
         "quantity": 1,
-        "unit": "cc de poivre - blanc de préférence",
+        "unit": "",
         "name": "cc de poivre - blanc de préférence"
       },
       {
