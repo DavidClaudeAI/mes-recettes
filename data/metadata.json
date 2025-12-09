@@ -22,7 +22,9 @@
   {
     "id": "958dcd1f-0f9f-4242-a58e-1211104215a1",
     "status": "to-test",
-    "tags": [],
+    "tags": [
+      "asiatique"
+    ],
     "history": [
       {
         "date": "2025-12-09T16:36:13.116Z",
