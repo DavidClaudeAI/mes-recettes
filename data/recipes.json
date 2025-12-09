@@ -592,5 +592,70 @@
     "id": "f60093de-7d42-4642-b9e7-b3b0dea1e983",
     "createdAt": "2025-12-09T17:34:49.522Z",
     "updatedAt": "2025-12-09T17:34:49.522Z"
+  },
+  {
+    "title": "Couscous de manam et Val",
+    "prepTime": 60,
+    "cookTime": 240,
+    "servings": 8,
+    "ingredients": [
+      {
+        "name": "Cuisses de poulets",
+        "quantity": 8,
+        "unit": ""
+      },
+      {
+        "name": "Collier d'agneau",
+        "quantity": 1,
+        "unit": "Kg"
+      },
+      {
+        "name": "boeuf (facultatif)",
+        "quantity": 500,
+        "unit": "Grs"
+      },
+      {
+        "name": "carottes",
+        "quantity": 5,
+        "unit": ""
+      },
+      {
+        "name": "courgettes",
+        "quantity": 5,
+        "unit": ""
+      },
+      {
+        "name": "fèves",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "name": "pois chiche en boite",
+        "quantity": 1,
+        "unit": "boite"
+      },
+      {
+        "name": "semoule fine Regia",
+        "quantity": 1,
+        "unit": "Kg"
+      },
+      {
+        "name": "raisin sec",
+        "quantity": 1,
+        "unit": ""
+      },
+      {
+        "name": "rhaz el ranout",
+        "quantity": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "ais revenir toutes tes viandes dans le couscoussier avec de l'huile d'olive. Quand ca commence à bien doré ajouté les épices ...rhaz el ranout... mais en pas mal . Ça va sentir super bon ! \nQuand tout est bien revenu tu couvres d'eau assez eau, c'est ta sauce donc il fait qu'il y en ai assez! \nRetire le poulet 🍗 c est fragile tu le rajouteras en fin de cuisson de la sauce. \nAjoute les carottes les pois chiche les fèves le navet le céleri : les légumes durs qui vont supporter la cuisson longue. Tu remettras les courgettes avec le poulet. Sale et poivre ton bouillon et mets à mijoter !",
+      "Prends un grand plat genre plaque de four.\nVerse ta semoule et mouille la progressivement avec 2 bols d'eau tiède. Tu verses et tu mélange avec l'autre main pour bien la mouiller ça va la faire gonfler un peu. Pour la remettre dans le haut du coucoussier sers toi de tes deux mains en les frottants l'une contre l'autre et en frottant les grains... plongé dans tes souvenirs tu as déjà vu faire 😜 \nTu installes la partie haute sur la partie basse du couscoussier. La sauce va faire gonfler la semoule. \nSurveille et quand tu verras de la vapeur s'échapper de la semoule compte 20 Minutes environ. \n\nAprès 20mn retourne la \"passoire \" dans ton grand plat! Pas par terre ! \nAvec une fourchette tu égraine la semoule en rajoutant environ 2  bols d'eau tiède progressivement ! \nQuand la température est supportable tu égraine avec les mains. Tu la roule en détachant les boulettes... et tu remets de la même façon dans la passoire. Et c repartit pour 20 Minutes.\n\nAu prochain démoulage tu vas égrainer avec un petit peu d'eau mais tu vas pouvoir rajouter du beurre et du sel! N'hésite pas à goûter pour le sel ! \nSi tu veux mettre des raisins secs c maintenant tu alterne de la semoule et des raisins en remettant dans la passoire pour encore 20 mn.\n\nLa 3 éme passe n'est pas obligatoire mais c mieux !!! Ta semoule doit être légère ! C l'eau et le beurre qui l'a fait gonfler alors n'hésite pas. Les semoules actuelles ne colle pas vraiment !\n\nVoilà du coup tu peux mettre ta semoule dans ton plat de service ne la couvre surtout pas ni pendant la cuisson ni tant qu'elle est chaude ça ferait de la polenta et c pas le but !!!!! \n\nTa sauce à bien mijoter du coup! Goute et rectifie si besoin sel et tu peux remette des épices ! Rajoutes tes courgettes et ton poulet quand le poulet est cuit c prêt !!! Tu peux la laisser sur 2 pour la tenir au chaud!"
+    ],
+    "id": "86e7de2e-4e24-4a21-97dc-43db707969b7",
+    "createdAt": "2025-12-09T18:06:32.741Z",
+    "updatedAt": "2025-12-09T18:06:32.741Z"
   }
 ]
