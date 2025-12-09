@@ -58,7 +58,9 @@
   {
     "id": "f60093de-7d42-4642-b9e7-b3b0dea1e983",
     "status": "to-test",
-    "tags": [],
+    "tags": [
+      "asiatique"
+    ],
     "history": []
   }
 ]
