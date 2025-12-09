@@ -1,1 +1,153 @@
-[]
+[
+  {
+    "id": "5fd7e219-3c87-4392-9222-d7a64558fa05",
+    "name": "Ramen au poulet facile",
+    "createdAt": "2025-12-09T17:31:13.535Z",
+    "status": "active",
+    "items": [
+      {
+        "id": "90991d58-2153-4c93-9ef6-44130de3d4a4",
+        "name": "œufs",
+        "quantity": 4,
+        "unit": "œufs",
+        "checked": false,
+        "category": "Autres",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "1fa05ef6-bf1a-48b7-8e05-c0d3a82b5983",
+        "name": "de nouilles pour ramen (2 nids de nouilles de blé pour moi)",
+        "quantity": 125,
+        "unit": "g",
+        "checked": false,
+        "category": "Autres",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "2f6301b5-b23e-442a-8634-aa94c5cb3a78",
+        "name": "graines de sésame, coriandre (facultatif)",
+        "quantity": 1,
+        "unit": "",
+        "checked": false,
+        "category": "Autres",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "f87e9394-8eff-41f1-992e-9ca2beb54705",
+        "name": "de tofu fumé",
+        "quantity": 200,
+        "unit": "g",
+        "checked": false,
+        "category": "Autres",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "ca2b3aeb-cebc-4aee-9f9a-7d5bea074721",
+        "name": "d’eau",
+        "quantity": 1,
+        "unit": "L",
+        "checked": false,
+        "category": "Boissons",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "b53a1dac-a9f3-4312-8b48-4f2428786ca2",
+        "name": "de sauce soja salée",
+        "quantity": 4,
+        "unit": "c. à soupe",
+        "checked": false,
+        "category": "Epicerie",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "e8bd6c5b-62a4-4f9b-bad4-497ab10ae11a",
+        "name": "de sauce soja sucrée",
+        "quantity": 2,
+        "unit": "c. à soupe",
+        "checked": false,
+        "category": "Epicerie",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "4940f6c8-4ad6-4fd9-ba44-41666cb14dd5",
+        "name": "d’huile de sésame",
+        "quantity": 2,
+        "unit": "c. à soupe",
+        "checked": false,
+        "category": "Epicerie",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "3d758a88-48f7-4fa3-9b41-222c9a5c6777",
+        "name": "de champignons de Paris",
+        "quantity": 200,
+        "unit": "g",
+        "checked": false,
+        "category": "Fruits & Legumes",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "89505867-9774-465e-a5c8-a15652752312",
+        "name": "oignons tiges (ou 2 échalotes)",
+        "quantity": 2,
+        "unit": "oignons tiges (ou 2 échalotes)",
+        "checked": false,
+        "category": "Fruits & Legumes",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "3d8d6ff4-993a-4f1d-9c08-6a2c6b40dcc7",
+        "name": "cm de gingembre frais pelé et râpé",
+        "quantity": 4,
+        "unit": "cm de gingembre frais pelé et râpé",
+        "checked": false,
+        "category": "Fruits & Legumes",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "b7609436-f41a-46fe-a4e5-156c2be8fade",
+        "name": "de filet de poulet",
+        "quantity": 200,
+        "unit": "g",
+        "checked": false,
+        "category": "Viandes & Poissons",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      },
+      {
+        "id": "c570d0d0-114d-4d2d-a128-facf43d70afc",
+        "name": "cube de bouillon de poulet (ou légumes pour l’option végétarienne)",
+        "quantity": 1,
+        "unit": "cube de bouillon de poulet (ou légumes pour l’option végétarienne)",
+        "checked": false,
+        "category": "Viandes & Poissons",
+        "fromRecipes": [
+          "Ramen au poulet facile"
+        ]
+      }
+    ]
+  }
+]
