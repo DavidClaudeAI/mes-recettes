@@ -1,1 +1,131 @@
-[]
+[
+  {
+    "id": "9fdc968d-a5dc-47ec-ba69-5c6be1c5311e",
+    "name": "Soupe Tom kha kay,  de poulet thaï au lait de coco",
+    "createdAt": "2025-12-09T17:14:03.022Z",
+    "status": "active",
+    "items": [
+      {
+        "id": "03e67581-d948-468f-98d5-82d2144a3512",
+        "name": "bouquet de coriandre fraiche",
+        "quantity": 0.5,
+        "unit": "",
+        "checked": false,
+        "category": "Autres",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      },
+      {
+        "id": "2a042335-fcb3-4f68-8450-3f65a7925764",
+        "name": "CS de nuoc mam",
+        "quantity": 4,
+        "unit": "cs de nuoc mam",
+        "checked": false,
+        "category": "Autres",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      },
+      {
+        "id": "9f6b3086-63c0-49f6-8f50-50a6ec1047e8",
+        "name": "Piment frais ou en sauce",
+        "quantity": 1,
+        "unit": "",
+        "checked": false,
+        "category": "Epicerie",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      },
+      {
+        "id": "6856c0fa-e57d-479a-bec5-9a666c765ef1",
+        "name": "de bouillon de volaille (maison ou fait avec 1/2 cube)",
+        "quantity": 40,
+        "unit": "cl",
+        "checked": false,
+        "category": "Fruits & Legumes",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      },
+      {
+        "id": "54e72c5c-3d53-423d-8d21-26a4bfec1f3d",
+        "name": "cm de gingembre frais (ou 2 CS de gingembre haché surgelé)",
+        "quantity": 3,
+        "unit": "cm de gingembre frais (ou 2 cs de gingembre haché surgelé)",
+        "checked": false,
+        "category": "Fruits & Legumes",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      },
+      {
+        "id": "913ffa12-3a46-4973-8418-7fab4903e205",
+        "name": "tiges de citronnelle fraîche (ou 3 CS de citronnelle hachée surgelée)",
+        "quantity": 3,
+        "unit": "tiges de citronnelle fraîche (ou 3 cs de citronnelle hachée surgelée)",
+        "checked": false,
+        "category": "Fruits & Legumes",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      },
+      {
+        "id": "1579453f-5615-4bdb-add9-0974d7669303",
+        "name": "Le jus et le zeste d’1 citron vert",
+        "quantity": 1,
+        "unit": "",
+        "checked": false,
+        "category": "Fruits & Legumes",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      },
+      {
+        "id": "8a0df420-754c-4b81-88c9-63e11c54469b",
+        "name": "de champignons de Paris émincés (frais ou en conserve)",
+        "quantity": 250,
+        "unit": "g",
+        "checked": false,
+        "category": "Fruits & Legumes",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      },
+      {
+        "id": "15ee52ab-8b33-4f63-bb3c-ec4223ce6f9c",
+        "name": "de légumes verts de votre choix : petits pois, brocolis, haricots verts coupés en tronçons, fèves) etc.",
+        "quantity": 250,
+        "unit": "g",
+        "checked": false,
+        "category": "Fruits & Legumes",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      },
+      {
+        "id": "9800a14e-e0fa-46dd-8906-cf34c98f9783",
+        "name": "de lait de coco (ne confondez pas avec la « crème de coco »)",
+        "quantity": 1.2,
+        "unit": "L",
+        "checked": false,
+        "category": "Produits laitiers",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      },
+      {
+        "id": "1ec272c3-0a8f-4e6d-bcf6-694de714807f",
+        "name": "de blancs de poulet fermier",
+        "quantity": 700,
+        "unit": "g",
+        "checked": false,
+        "category": "Viandes & Poissons",
+        "fromRecipes": [
+          "Soupe Tom kha kay,  de poulet thaï au lait de coco"
+        ]
+      }
+    ]
+  }
+]
