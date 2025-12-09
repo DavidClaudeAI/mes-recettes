@@ -21,7 +21,7 @@
         "name": "de nouilles pour ramen (2 nids de nouilles de blé pour moi)",
         "quantity": 125,
         "unit": "g",
-        "checked": false,
+        "checked": true,
         "category": "Autres",
         "fromRecipes": [
           "Ramen au poulet facile"
@@ -149,6 +149,6 @@
         ]
       }
     ],
-    "updatedAt": "2025-12-09T17:36:59.628Z"
+    "updatedAt": "2025-12-09T17:40:33.674Z"
   }
 ]
