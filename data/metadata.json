@@ -23,7 +23,12 @@
     "id": "958dcd1f-0f9f-4242-a58e-1211104215a1",
     "status": "to-test",
     "tags": [],
-    "history": []
+    "history": [
+      {
+        "date": "2025-12-09T16:36:13.116Z",
+        "notes": "Augmenter les doses de légumes, et pas trop de poulet"
+      }
+    ]
   },
   {
     "id": "b60ecc69-bc26-4da3-804c-34cab0b155ac",
