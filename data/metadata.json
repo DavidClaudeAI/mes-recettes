@@ -26,7 +26,7 @@
     "history": [
       {
         "date": "2025-12-09T16:36:13.116Z",
-        "notes": "Augmenter les doses de lÃ©gumes, et pas trop de poulet"
+        "notes": "Augmenter les doses de lÃÂ©gumes, et pas trop de poulet"
       }
     ],
     "rating": 3
@@ -41,6 +41,7 @@
     "id": "c7e7f070-ad6e-45f7-832b-c6131b989500",
     "status": "to-test",
     "tags": [],
-    "history": []
+    "history": [],
+    "rating": 5
   }
 ]
