@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "9c201946-194d-4dee-9699-2b47a55facbb",
+    "weekStart": "2025-12-07",
+    "day": 1,
+    "slot": "lunch",
+    "recipeId": "8b688b70-085b-42af-9101-ee1235bf1e42"
+  }
+]
