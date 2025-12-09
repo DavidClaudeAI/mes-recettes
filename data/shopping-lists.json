@@ -10,7 +10,7 @@
         "name": "œufs",
         "quantity": 4,
         "unit": "œufs",
-        "checked": false,
+        "checked": true,
         "category": "Autres",
         "fromRecipes": [
           "Ramen au poulet facile"
@@ -148,6 +148,7 @@
           "Ramen au poulet facile"
         ]
       }
-    ]
+    ],
+    "updatedAt": "2025-12-09T17:36:59.628Z"
   }
 ]
