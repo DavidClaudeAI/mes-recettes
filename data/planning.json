@@ -12,5 +12,12 @@
     "day": 2,
     "slot": "dinner",
     "recipeId": "0d69d153-56ee-40cf-b0fa-5f7502dfcb42"
+  },
+  {
+    "id": "3c3d9d26-5635-4d68-b1ed-6984b73fe758",
+    "weekStart": "2025-12-07",
+    "day": 3,
+    "slot": "dinner",
+    "recipeId": "8b688b70-085b-42af-9101-ee1235bf1e42"
   }
 ]
