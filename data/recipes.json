@@ -315,7 +315,7 @@
       },
       {
         "quantity": 4,
-        "unit": "œufs",
+        "unit": "",
         "name": "œufs"
       },
       {
@@ -330,7 +330,7 @@
       },
       {
         "quantity": 2,
-        "unit": "oignons tiges (ou 2 échalotes)",
+        "unit": "",
         "name": "oignons tiges (ou 2 échalotes)"
       },
       {
@@ -340,12 +340,12 @@
       },
       {
         "quantity": 4,
-        "unit": "cm de gingembre frais pelé et râpé",
+        "unit": "",
         "name": "cm de gingembre frais pelé et râpé"
       },
       {
         "quantity": 1,
-        "unit": "cube de bouillon de poulet (ou légumes pour l’option végétarienne)",
+        "unit": "",
         "name": "cube de bouillon de poulet (ou légumes pour l’option végétarienne)"
       },
       {
@@ -400,7 +400,7 @@
     "ingredients": [
       {
         "quantity": 12,
-        "unit": "feuilles de riz",
+        "unit": "",
         "name": "feuilles de riz"
       },
       {
@@ -415,12 +415,12 @@
       },
       {
         "quantity": 3,
-        "unit": "carottes râpées",
+        "unit": "",
         "name": "carottes râpées"
       },
       {
         "quantity": 2,
-        "unit": "avocats",
+        "unit": "",
         "name": "avocats"
       },
       {
