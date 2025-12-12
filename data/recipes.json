@@ -22,12 +22,12 @@
       },
       {
         "quantity": 3,
-        "unit": "cm de gingembre frais (ou 2 cs de gingembre haché surgelé)",
+        "unit": "",
         "name": "cm de gingembre frais (ou 2 CS de gingembre haché surgelé)"
       },
       {
         "quantity": 3,
-        "unit": "tiges de citronnelle fraîche (ou 3 cs de citronnelle hachée surgelée)",
+        "unit": "",
         "name": "tiges de citronnelle fraîche (ou 3 CS de citronnelle hachée surgelée)"
       },
       {
@@ -37,7 +37,7 @@
       },
       {
         "quantity": 4,
-        "unit": "cs de nuoc mam",
+        "unit": "cs",
         "name": "CS de nuoc mam"
       },
       {
